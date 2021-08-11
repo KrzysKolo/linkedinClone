@@ -2,7 +2,12 @@
 <h4>Hasło: <b>test123456</h4>
   <p> Strona przypominająca HomePage LinkedIn</p>
   <p> Możliwość logowania/rejestracji za pomocą email-a, Google, Facebook-a </p>
- <img src="demo/demo1.jpg" alt="Linkedin" width="450px">
+ <img src="demo/demo1.jpg" alt="Linkedin" width="550px">
+  <img src="demo/demo2.jpg" alt="Linkedin" width="550px">
+  <img src="demo/demo3.jpg" alt="Linkedin" width="550px">
+  <img src="demo/demo4.jpg" alt="Linkedin" width="550px">
+  <img src="demo/demo5.jpg" alt="Linkedin" width="550px">
+  <img src="demo/demo6.jpg" alt="Linkedin" width="550px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
