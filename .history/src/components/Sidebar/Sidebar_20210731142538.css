@@ -1,0 +1,11 @@
+.sidebar {
+  position: sticky;
+  top: 80px;
+  flex: 20%;
+  border-radius: 10px;
+  text-align: center;
+  height: fit-content;
+  border: 1px solid red;
+}
+.sidebar__top {
+}

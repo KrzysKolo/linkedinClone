@@ -1,0 +1,9 @@
+.post {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.post__header {
+  display: flex;
+}

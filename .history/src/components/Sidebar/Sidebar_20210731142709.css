@@ -1,0 +1,14 @@
+.sidebar {
+  position: sticky;
+  top: 80px;
+  flex: 0.2;
+  border-radius: 10px;
+  text-align: center;
+  height: fit-content;
+  border: 1px solid red;
+}
+.sidebar__avatar {
+  margin-bottom: 10px;
+}
+.sidebar__top {
+}

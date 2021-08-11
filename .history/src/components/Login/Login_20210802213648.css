@@ -1,0 +1,12 @@
+.login {
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+.login > img {
+  object-fit: contain;
+  height: 70px;
+  /* width: 30%; */
+  margin: 20px 0;
+}

@@ -1,0 +1,35 @@
+import React from 'react';
+//COMPONENTS
+//ROUTING
+//REDUX
+//FIREBASE
+//MATERIAL UI
+//CSS
+import { Container, Nav, Join, SignIn, Section } from './Login.css';
+//FILES
+import logo from './../../assets/images/linkedIn.png';
+
+const Login = (props) => {
+  return (
+    <Container>
+      <Nav>
+        <a href="/">
+          <img src={logo} alt="" />
+        </a>
+        <div>
+          <Join>
+            Join Now
+          </Join>
+          <SignIn>
+            Sign In
+          </SignIn>
+        </div>
+      </Nav>
+      <Section>
+        Section
+      </Section>
+    </Container>
+  )
+}
+
+export default Login
