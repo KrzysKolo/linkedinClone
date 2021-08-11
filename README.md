@@ -1,3 +1,7 @@
+<h2>Login: <b>test@test.pl</h2>
+<h2>Hasło: <b>test123456</h2>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
