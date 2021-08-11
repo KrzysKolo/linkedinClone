@@ -1,5 +1,6 @@
-<h4>Login: <b>test@test.pl</h4>
-<h4>Hasło: <b>test123456</h4>
+<h5>Login: <b>test@test.pl</h5>
+<h5>Hasło: <b>test123456</h5>
+  <a href="https://linkedin-clone-2cc05.firebaseapp.com/">Cliick here</a>
   <p> Strona przypominająca HomePage LinkedIn</p>
   <p> Możliwość logowania/rejestracji za pomocą email-a, Google, Facebook-a </p>
  <img src="demo/demo1.jpg" alt="Linkedin" width="550px">
