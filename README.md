@@ -1,3 +1,7 @@
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+
 <h5>Login: <b>test@test.pl</h5>
 <h5>Hasło: <b>test123456</h5>
   <a href="https://linkedin-clone-2cc05.firebaseapp.com/">Cliick here</a>
@@ -10,7 +14,6 @@
   <img src="demo/demo5.jpg" alt="Linkedin" width="550px">
   <img src="demo/demo6.jpg" alt="Linkedin" width="550px">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
